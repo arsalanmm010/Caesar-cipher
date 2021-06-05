@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594477262 source:d:\codes\my c.c\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
